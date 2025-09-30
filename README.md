@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramchandra-tharu&label=Profile%20views&color=0e75b6&style=flat" alt="ramchandra-tharu" /> </p>
 
-- ⚡ Fun fact **COMPUTER LOER**
+- ⚡ Fun fact **COMPUTER LOVER**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
