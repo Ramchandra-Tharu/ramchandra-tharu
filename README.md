@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ramchandra Tharu (SIRZAN)</h1>
 <h3 align="center">i am a Software Developer, Web developer from India</h3>
+<p align="right"> <img width="224" height="200" alt="image" src="https://github.com/user-attachments/assets/329a7ab3-8824-4859-bc4f-ba503be5c504" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramchandra-tharu&label=Profile%20views&color=0e75b6&style=flat" alt="ramchandra-tharu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramchandra-tharu" alt="ramchandra-tharu" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/iamramchandra43" target="blank"><img src="https://img.shields.io/twitter/follow/iamramchandra43?logo=twitter&style=for-the-badge" alt="iamramchandra43" /></a> </p>
 
