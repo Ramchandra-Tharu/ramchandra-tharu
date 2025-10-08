@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramchandra Tharu (SIRZAN)</h1>
 <h3 align="center">i am a Software Developer, Web developer from India</h3>
-<p align="right"> <img width="224" height="200" alt="image" src="https://github.com/user-attachments/assets/329a7ab3-8824-4859-bc4f-ba503be5c504" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramchandra-tharu&label=Profile%20views&color=0e75b6&style=flat" alt="ramchandra-tharu" /> </p>
 
