@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ramchandra Tharu (SIRZAN)</h1>
+<h1 align="center">Hi 👋, I'm Ramchandra Tharu (SIRZAN THARU)</h1>
 <h3 align="center">i am a Software Developer, Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramchandra-tharu&label=Profile%20views&color=0e75b6&style=flat" alt="ramchandra-tharu" /> </p>
