@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **react, flutter**
 
-- 📫 How to reach me **tharuramchandra.com.np**
+- 📫 How to reach me **https://tharuramchandra.com.np**
 
 - 📄 Know about my experiences [file:///C:/Users/ACER/Downloads/My%20portfolio/Ramchandra-Tharu.github.io-main/resume.pdf](file:///C:/Users/ACER/Downloads/My%20portfolio/Ramchandra-Tharu.github.io-main/resume.pdf)
 
