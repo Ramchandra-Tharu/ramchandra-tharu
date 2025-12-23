@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **E-commerce Website**
 
-- 🌱 I’m currently learning **Flutter, Reactjs, Nodejs**
+- 🌱 I’m currently learning **Flutter, Reactjs, Next.js, Nodejs**
 
 - 👯 I’m looking to collaborate on **Food Delivery App (flutter)**
 
