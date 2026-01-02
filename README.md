@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Food Delivery App (flutter)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ramchandra-Tharu](https://github.com/Ramchandra-Tharu)
+- 👨‍💻 All of my projects are available at [https://github.com/Ramchandra-Tharu](https://github.com/Ramchandra-Tharu?tab=repositories)
 
 - 💬 Ask me about **react, flutter**
 
